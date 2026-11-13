@@ -1,0 +1,16 @@
+{
+  "name": "Mi taller de cerámica",
+  "short_name": "Mi taller",
+  "description": "Mis piezas de cerámica, lo que aprendo de cada una y las ideas que quiero hacer.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5efe6",
+  "theme_color": "#b4552f",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
